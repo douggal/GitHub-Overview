@@ -46,8 +46,3 @@ jobs:
            echo $GITHUB_ACTOR
            echo $GITHUB_JOB
            echo $GITHUB_REF
-
-
-        
-      
-    
